@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "FZYouMaoZaiK-subfont";
+  src: url("FZYouMaoZaiK-subfont.woff2") format("woff2"),
+       url("FZYouMaoZaiK-subfont.woff") format("woff"),
+       url("FZYouMaoZaiK-subfont.ttf") format("truetype"),
+       url("FZYouMaoZaiK-subfont.eot") format("embedded-opentype"),
+       url("FZYouMaoZaiK-subfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
